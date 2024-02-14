@@ -64,7 +64,7 @@ defmodule OpenIDConnect.Mixfile do
 
   defp deps do
     [
-      {:jason, ">= 1.0.0"},
+      {:jason, "~> 1.2"},
       {:finch, "~> 0.14"},
       {:jose, "~> 1.8"},
 
